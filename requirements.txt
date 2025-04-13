@@ -1,0 +1,11 @@
+gitpython
+streamlit
+matplotlib
+requests
+google-generativeai
+python-dotenv
+PyGithub
+Flask
+Flask-Cors
+Flask-SQLAlchemy
+psycopg2-binary
